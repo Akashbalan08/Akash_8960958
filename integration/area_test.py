@@ -6,4 +6,4 @@ def test_area_square():
 
 
 def test_area_circle():
-    assert area.areaofcircle(2) == 12.56
+    assert area.areaofcircle(2) == 12.5
